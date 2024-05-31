@@ -25,7 +25,7 @@
             <div class="col-md-8 col-lg-6">
                 <div class="card shadow-lg border-0">
                     <div class="card-header text-center">
-                        <h2 class="display-7">Aplikasi Perpustakaan</h2>
+                        <h2 class="display-7">Aplikasi Perpustakaan versi 10 </h2>
                     </div>
                     <div class="card-body p-4">
                         <div>
